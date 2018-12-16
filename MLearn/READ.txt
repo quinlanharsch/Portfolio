@@ -1,0 +1,14 @@
+* neuralnet.py
+a "from scratch" implementation of a neural network
+
+* iris.py
+Using the Iris Flower dataset to get familiar with nnetworks.
+
+* handwrittendigits.py & handwritten_digit_recognition.py & @.ubyte
+Using the MNIST http://yann.lecun.com/exdb/mnist/ dataset to get familiar with nnetworks that accept pictures as inputs.
+
+* knn.py
+a simple exercise in using the k-nearest neighbors algorythm.
+
+* venv\
+The virtual environment I ran (using PyCharm IDE) with all the libraries needed to run these files installed with pip
