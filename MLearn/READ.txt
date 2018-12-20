@@ -12,3 +12,6 @@ a simple exercise in using the k-nearest neighbors algorythm.
 
 * venv\
 The virtual environment I ran (using PyCharm IDE) with all the libraries needed to run these files installed with pip
+
+* Parkinson's Decision Tree\
+A simple project that predicts if a person has Parkinsons based off of dysphonia test readings
